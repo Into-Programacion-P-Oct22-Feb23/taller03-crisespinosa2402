@@ -23,7 +23,6 @@ public class Ejercicio05 {
         int var5 = 3;
         
         // System.out.println(Math.pow(var1, var2) + var3 - var4) / var5;
-        
         double valor = (Math.pow(var1, var2) + var3 - var4) / var5;
         
         System.out.println(valor); 
